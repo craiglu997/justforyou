@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 做个网站送给你~
 
 You can use the [editor on GitHub](https://github.com/craiglu997/justforyou/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
